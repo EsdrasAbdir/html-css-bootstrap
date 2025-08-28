@@ -1,6 +1,6 @@
 # 🚀 Geek Blog - Meu Projeto de Desenvolvimento Web
 
-![Banner]([URL_da_Imagem](https://github.com/EsdrasAbdir/html-css-bootstrap/blob/main/assets/banner.png?raw=true))
+![Página inicial do blog Geek](https://github.com/EsdrasAbdir/html-css-bootstrap/blob/main/assets/banner.png?raw=true)
 
 ## Sobre o Projeto
 
