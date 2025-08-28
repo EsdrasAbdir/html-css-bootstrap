@@ -24,3 +24,24 @@ Para visualizar o blog, basta clonar este repositório e abrir o arquivo `index.
 
 ```bash
 git clone [https://github.com/seu-usuario/seu-repositorio.git](https://github.com/seu-usuario/seu-repositorio.git)
+
+## 🤝 Contribuições
+
+Sinta-se à vontade para sugerir melhorias, corrigir bugs ou adicionar novas funcionalidades. Toda contribuição é bem-vinda!
+
+1.  Faça o **fork** do projeto.
+2.  Crie uma nova **branch** (`git checkout -b feature/nova-feature`).
+3.  Faça suas alterações e **commit**-as (`git commit -m 'feat: adicionei nova feature'`).
+4.  Envie suas alterações (`git push origin feature/nova-feature`).
+5.  Abra um **Pull Request**.
+
+---
+
+## 👤 Autor
+
+**Esdras**
+
+Estudante de Ciência da Computação no segundo semestre com interesse em desenvolvimento web e mobile.
+
+* **GitHub:** [Meu GitHub](https://github.com/EsdrasAbdir)
+* **LinkedIn:** [Meu linkedinl](https://www.linkedin.com/in/esdras-abdir-issacar-a04862375/)
