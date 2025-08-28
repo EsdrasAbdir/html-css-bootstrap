@@ -23,7 +23,7 @@ Este é um blog de cultura geek criado como projeto da disciplina de Desenvolvim
 Para visualizar o blog, basta clonar este repositório e abrir o arquivo `index.html` no seu navegador.
 
 ```bash
-git clone [https://github.com/seu-usuario/seu-repositorio.git](https://github.com/seu-usuario/seu-repositorio.git)
+git clone [https://github.com/EsdrasAbdir/html-css-bootstrap.git](https://github.com/EsdrasAbdir/html-css-bootstrap.git)
 
 ## 🤝 Contribuições
 
@@ -44,4 +44,4 @@ Sinta-se à vontade para sugerir melhorias, corrigir bugs ou adicionar novas fun
 Estudante de Ciência da Computação no segundo semestre com interesse em desenvolvimento web, AI🤖 e open source.
 
 * **GitHub:** [Meu GitHub](https://github.com/EsdrasAbdir)
-* **LinkedIn:** [Meu linkedinl](https://www.linkedin.com/in/esdras-abdir-issacar-a04862375/)
+* **LinkedIn:** [Meu LinkedIn](https://www.linkedin.com/in/esdras-abdir-issacar-a04862375/)
