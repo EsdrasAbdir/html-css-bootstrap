@@ -41,7 +41,7 @@ Sinta-se à vontade para sugerir melhorias, corrigir bugs ou adicionar novas fun
 
 **Esdras**
 
-Estudante de Ciência da Computação no segundo semestre com interesse em desenvolvimento web e mobile.
+Estudante de Ciência da Computação no segundo semestre com interesse em desenvolvimento web, AI🤖 e open source.
 
 * **GitHub:** [Meu GitHub](https://github.com/EsdrasAbdir)
 * **LinkedIn:** [Meu linkedinl](https://www.linkedin.com/in/esdras-abdir-issacar-a04862375/)
